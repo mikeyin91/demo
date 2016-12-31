@@ -1,3 +1,0 @@
-Git is a distributed version  control system append GPL
-Git is free software
-Git tracks changes........
